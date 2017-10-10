@@ -24,17 +24,17 @@ https://www.youtube.com/watch?v=yG3tVVDz1uE
 To use these notebooks simply cut and paste the URLs below when you are creating a new notebook.
 
 1. Introduction to Spark - Python:  
-https://github.com/joshishwetha/dsx-spark/blob/master/Lab%201-%20Introduction%20to%20Spark-Student.ipynb
+https://github.com/tliakos/dsx-spark/blob/master/Lab%201-%20Introduction%20to%20Spark-Student.ipynb
 
 2. Introduction to Spark SQL:  
-https://github.com/joshishwetha/dsx-spark/blob/master/Lab%202:%20Spark%20SQL%20-%20Student.ipynb
+https://github.com/tliakos/dsx-spark/blob/master/Lab%202:%20Spark%20SQL%20-%20Student.ipynb
 
 3. Spark Machine Learning - Python:  
-https://github.com/joshishwetha/dsx-spark/blob/master/Lab%203%20-%20Machine%20Learning%20Student.ipynb
+https://github.com/tliakos/dsx-spark/blob/master/Lab%203%20-%20Machine%20Learning%20Student.ipynb
 
 
 ## Data set url
-https://raw.githubusercontent.com/joshishwetha/dsx-spark/master/data.csv
+https://raw.githubusercontent.com/tliakos/dsx-spark/master/data.csv
 
 ## Additional links
 Spark Streming webinar link: https://www.youtube.com/watch?v=_mFm2F7UQgU  
