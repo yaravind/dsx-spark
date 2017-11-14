@@ -39,5 +39,5 @@ https://github.com/tliakos/dsx-spark/blob/master/Lab%203%20-%20Machine%20Learnin
 https://raw.githubusercontent.com/tliakos/dsx-spark/master/data.csv
 
 ## Additional links
-Spark Streming webinar link: https://www.youtube.com/watch?v=_mFm2F7UQgU  
-Spark Streming demo code : https://github.com/smatlapudi/spark-streaming-webinar1 
+Spark Streaming webinar link: https://www.youtube.com/watch?v=_mFm2F7UQgU  
+Spark Streaming demo code : https://github.com/smatlapudi/spark-streaming-webinar1 
